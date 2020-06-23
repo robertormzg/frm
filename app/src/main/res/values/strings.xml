@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">formulario</string>
+    <string name="app_name">Formulario</string>
+    <string name="tvConfirmar">Confirma datos</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_editar">Editar datos</string>
+    <string name="et_nombre">Nombre completo</string>
+    <string name="et_telefono">Teléfono</string>
+    <string name="et_fecha">Fecha de nacimiento</string>
+    <string name="et_email">Email</string>
+    <string name="et_descripcion">Descripción del contacto</string>
+
 </resources>
