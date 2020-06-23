@@ -3,6 +3,7 @@
     <string name="tvConfirmar">Confirma datos</string>
     <string name="btn_siguiente">Siguiente</string>
     <string name="btn_editar">Editar datos</string>
+    <string name="btn_fecha">Fecha</string>
     <string name="et_nombre">Nombre completo</string>
     <string name="et_telefono">Teléfono</string>
     <string name="et_fecha">Fecha de nacimiento</string>
